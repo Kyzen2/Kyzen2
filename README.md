@@ -1,16 +1,16 @@
-## Elaina My Istri
+<div align="center">
 
-<!--
-**Kyzen2/Kyzen2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 🧙‍♀️ Kyzen2 Domain
 
-Here are some ideas to get you started:
+<img src="https://media.tenor.com/t4E1pAnXm_0AAAAC/majo-no-tabitabi-elaina.gif" width="50%" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### "Siapakah penyihir paling jenius di profile ini? Ya, tentu saja aku!" ✨
+
+---
+
+### 📅 My Contributions
+🟢 *Aktivitas ngoding lu bakal nampil otomatis di bawah ini setelah lu Commit:*
+
+![GitHub Grid Graph](https://grid-graph.vercel.app/api/graph?username=Kyzen2&theme=monokai&bg_color=1a1b27&line_color=7aa2f7)
+
+</div>
